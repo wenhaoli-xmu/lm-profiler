@@ -1,4 +1,4 @@
-![img](doc/image/main.pdf)
+![img](doc/image/main.png)
 
 ## Installation
 

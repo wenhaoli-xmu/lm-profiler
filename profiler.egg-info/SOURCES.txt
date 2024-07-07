@@ -1,0 +1,7 @@
+setup.py
+profiler/profiler.py
+profiler/utils.py
+profiler.egg-info/PKG-INFO
+profiler.egg-info/SOURCES.txt
+profiler.egg-info/dependency_links.txt
+profiler.egg-info/top_level.txt
